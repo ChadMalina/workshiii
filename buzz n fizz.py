@@ -1,7 +1,7 @@
 
 
 def buzz_(first,last):
-    for Fizzbuzz in range(first, last + 1):
+    for Fizzbuzz in range(1, 10):
      if Fizzbuzz % 3==0:
         print("Fizz")
      elif Fizzbuzz % 5==0:

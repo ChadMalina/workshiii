@@ -6,5 +6,4 @@ def find_max():
     print(numbers)
     print(max(numbers))
 
-
 print(find_max())
