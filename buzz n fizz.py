@@ -8,4 +8,4 @@ def buzz_(first,last):
         print("Buzz")
 
 print("From 1 to 10")
-buzz_(1,10)
+buzz_(1,20)
